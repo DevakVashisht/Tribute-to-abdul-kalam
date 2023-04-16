@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F0F0F0;
+    line-height: 1.5rem;
+    font-family: 'PT sans';
+}
+
+#title { 
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.h1 {
+    padding-bottom: 2.5rem;
+    font-family: 'Montserrat';
+}
+
+.nav-item {
+    padding: 0 10%;
+    font-size: 120%;   
+}
+
+#projects {
+    background-color: #3C486B;
+    color: white;
+}
+
+.nandhi {
+    display: flex;
+    justify-content: left;
+    padding: 0.5rem;
+}
+
+.nan-h1 {
+    padding-left: 1.5rem;
+}
+
+.nan-h1{
+    position: relative;
+    background-origin: padding-box;
+}
+
+.nan-p{
+    position: relative;
+    top: 100px;
+    right: 9%;
+    font-size: 125%;
+    line-height: 2rem;
+}
+
+.missile {
+    padding: 0.5rem;
+    background-color: #F0F0F0;
+    color: black;
+    display: flex;
+    justify-content: right;
+    
+}
+
+.mis-h1 {
+    margin-right: 2%;
+}
+
+.invention-para{
+    position: relative;
+    top: 200px;
+    font-size: 125%;
+    right: 15.5%;
+    line-height: 2rem;
+}
+
+#about {
+    background-color: #3C486B;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+#about h1 {
+    text-align: center;
+    padding: 1.5rem;
+    line-height: 2rem;
+    font-size: 125%;
+}
+
+#footer {
+    padding: 3.5rem;
+    text-align: center;
+}
+
+#footer a{
+    text-decoration: none;
+    color: blue;
+}
